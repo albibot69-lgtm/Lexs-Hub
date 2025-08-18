@@ -1,4 +1,4 @@
-local than = game:HttpGet("https://github.com/albibot69-lgtm/Lexs-Hub/new/main")
+local than = game:HttpGet("github.com/albibot69-lgtm/Lexs-Hub/new/main")
         local Fluent = loadstring(than)()
 
         local Window = Fluent:CreateWindow({
