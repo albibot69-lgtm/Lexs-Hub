@@ -28,7 +28,7 @@ local gameScripts = {
 
 	["Fish It"] = {
 		free = "https://raw.githubusercontent.com/create-stree/STREE-HUB/refs/heads/main/Fish_It/Main.lua",
-		premium = "https://raw.githubusercontent.com/create-stree/STREE-HUB/refs/heads/main/Fish_It/Premium.lua"
+		premium = "https://raw.githubusercontent.com/albibot69-lgtm/Lexs-Hub/refs/heads/main/WebhookFishIt/Premium.lua"
 	},
 }
 
