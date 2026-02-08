@@ -2,7 +2,7 @@
 -- CONFIG DARI ATAS (WAJIB)
 -- =========================
 _G.Game = _G.Game or "Fish It"      -- Nama game
-_G.Version = _G.Version or "Free"   -- Free / Premium
+_G.Version = _G.Version or "Premium"   -- Free / Premium
 
 -- =========================
 -- SERVICES
@@ -23,7 +23,7 @@ local gameScripts = {
 
 	["Escape Tsunami For Brainrot"] = {
 		free = "https://raw.githubusercontent.com/",
-		premium = "https://raw.githubusercontent.com/create-stree/STREE-HUB/refs/heads/main/ETFB/Premium.lua"
+		premium = "https://raw.githubusercontent.com/albibot69-lgtm/Lexs-Hub/refs/heads/main/WebhookETFB/Premium.lua"
 	},
 
 	["Fish It"] = {
