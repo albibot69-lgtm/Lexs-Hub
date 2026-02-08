@@ -9,25 +9,25 @@ _G.Version = _G.Version or "Free"   -- Free / Premium
 -- =========================
 local StarterGui = game:GetService("StarterGui")
 
-local HUB_NAME = "STREE HUB"
-local HUB_ICON = "rbxassetid://122683047852451"
+local HUB_NAME = "Lexs Hub"
+local HUB_ICON = "rbxassetid://103875081318049"
 
 -- =========================
 -- DATABASE SCRIPT (NAMA GAME)
 -- =========================
 local gameScripts = {
 	["Break A Lucky Block"] = {
-		free = "https://raw.githubusercontent.com/create-stree/STREE-HUB/refs/heads/main/BALB/Main.lua",
+		free = "https://raw.githubusercontent.com/",
 		premium = "https://raw.githubusercontent.com/create-stree/STREE-HUB/refs/heads/main/BALB/Premium.lua"
 	},
 
 	["Escape Tsunami For Brainrot"] = {
-		free = "https://raw.githubusercontent.com/create-stree/STREE-HUB/refs/heads/main/ETFB/Main.lua",
+		free = "https://raw.githubusercontent.com/",
 		premium = "https://raw.githubusercontent.com/create-stree/STREE-HUB/refs/heads/main/ETFB/Premium.lua"
 	},
 
 	["Fish It"] = {
-		free = "https://raw.githubusercontent.com/create-stree/STREE-HUB/refs/heads/main/Fish_It/Main.lua",
+		free = "https://raw.githubusercontent.com/",
 		premium = "https://raw.githubusercontent.com/albibot69-lgtm/Lexs-Hub/refs/heads/main/WebhookFishIt/Premium.lua"
 	},
 }
@@ -70,6 +70,6 @@ local ok, err = pcall(function()
 end)
 
 if not ok then
-	warn("[STREE HUB ERROR]", err)
+	warn("[Lexs HubERROR]", err)
 	notify("Script failed to load!", 4)
 end
