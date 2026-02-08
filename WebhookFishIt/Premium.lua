@@ -37,8 +37,7 @@ local data = {
 
 		description =
 			"```diff\n" ..
-			"[ + ] Added Disable Cutscene\n" ..
-            "[ / ] Fix Instant Fishing\n" ..
+			"[ / ] Fix Instant Fishing\n" ..
 			"```\n\n" ..
 			"**Rejoin & Re-execute the script**",
 
