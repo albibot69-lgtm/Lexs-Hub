@@ -18,7 +18,7 @@ local HUB_ICON = "rbxassetid://103875081318049"
 local gameScripts = {
 	["Break A Lucky Block"] = {
 		free = "https://raw.githubusercontent.com/",
-		premium = "https://raw.githubusercontent.com/create-stree/STREE-HUB/refs/heads/main/BALB/Premium.lua"
+		premium = "https://raw.githubusercontent.com/albibot69-lgtm/Lexs-Hub/refs/heads/main/WebhookBALB/Premium.lua"
 	},
 
 	["Escape Tsunami For Brainrot"] = {
