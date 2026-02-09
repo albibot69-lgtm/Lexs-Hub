@@ -37,7 +37,9 @@ local data = {
 
 		description =
 			"```diff\n" ..
-			"[ / ] Fix Instant Fishing\n" ..
+			"[ + ] Added Auto Sell Enchant Stone\n" ..
+			"[ + ] Added Auto Quest Suited Up (Hazmat Suit)\n" ..
+			"[ + ] Added Auto Buy Charm\n" ..
 			"```\n\n" ..
 			"**Rejoin & Re-execute the script**",
 
