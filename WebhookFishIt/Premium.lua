@@ -40,6 +40,7 @@ local data = {
 			"[ + ] Added Auto Sell Enchant Stone\n" ..
 			"[ + ] Added Auto Quest Suited Up (Hazmat Suit)\n" ..
 			"[ + ] Added Auto Buy Charm\n" ..
+			"[ - ] Remove Blantant V1\n" ..
 			"```\n\n" ..
 			"**Rejoin & Re-execute the script**",
 
