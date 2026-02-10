@@ -37,7 +37,7 @@ local data = {
 
 		description =
 			"```diff\n" ..
-			"[ + ] soon\n" ..
+			"[ + ] Unlock Vip\n" ..
 			"```\n\n" ..
 			"**Rejoin & Re-execute the script**",
 
