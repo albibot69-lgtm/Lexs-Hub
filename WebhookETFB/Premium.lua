@@ -18,7 +18,7 @@ end
 
 local data = {
 	username = "Lexs Hub Update",
-	avatar_url = "https://cdn.discordapp.com/attachments/1427988930103476225/1463860113470259277/lexshubicon.png",
+	avatar_url = "https://tr.rbxcdn.com/180DAY-754ef874827c6f7f38a3901d4558c4ed/768/432/Image/Webp/noFilter",
 
 	content = table.concat(mentions, " "),
 
