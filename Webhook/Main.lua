@@ -16,12 +16,12 @@ local HUB_ICON = "rbxassetid://103875081318049"
 -- DATABASE SCRIPT (NAMA GAME)
 -- =========================
 local gameScripts = {
-	["Break A Lucky Block"] = {
+	["BALB"] = {
 		free = "https://raw.githubusercontent.com/",
 		premium = "https://raw.githubusercontent.com/albibot69-lgtm/Lexs-Hub/refs/heads/main/WebhookBALB/Premium.lua"
 	},
 
-	["Escape Tsunami For Brainrot"] = {
+	["ETFB"] = {
 		free = "https://raw.githubusercontent.com/",
 		premium = "https://raw.githubusercontent.com/albibot69-lgtm/Lexs-Hub/refs/heads/main/WebhookETFB/Premium.lua"
 	},
