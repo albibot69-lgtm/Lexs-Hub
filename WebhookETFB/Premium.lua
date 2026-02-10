@@ -18,7 +18,7 @@ end
 
 local data = {
 	username = "Lexs Hub Update",
-	avatar_url = "https://tr.rbxcdn.com/180DAY-754ef874827c6f7f38a3901d4558c4ed/768/432/Image/Webp/noFilter",
+	avatar_url = "https://cdn.discordapp.com/attachments/1460885261616550015/1469958871488528530/LexsHub3Decal.png?ex=698c3061&is=698adee1&hm=f466d9bb7d3f85d6788c5ed77a2ff8860003121a92095768c142af3561e05b53&",
 
 	content = table.concat(mentions, " "),
 
@@ -42,7 +42,7 @@ local data = {
 			"**Rejoin & Re-execute the script**",
 
 		image = {
-			url = "https://tr.rbxcdn.com/180DAY-c90011b352b6cbbbc8fb34d3aac447c2/768/432/Image/Webp/noFilter"
+			url = "https://tr.rbxcdn.com/180DAY-754ef874827c6f7f38a3901d4558c4ed/768/432/Image/Webp/noFilter"
 		},
 
 		footer = {
