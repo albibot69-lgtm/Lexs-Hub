@@ -18,7 +18,7 @@ local HUB_ICON = "rbxassetid://103875081318049"
 local gameScripts = {
 	["Abyss"] = {
 		free = "https://raw.githubusercontent.com/",
-		premium = "https://raw.githubusercontent.com/albibot69-lgtm/Lexs-Hub/refs/heads/main/WebhookBALB/Premium.lua"
+		premium = "https://raw.githubusercontent.com/albibot69-lgtm/Lexs-Hub/refs/heads/main/webhookabyss/premium.lua"
 	},
 	["BALB"] = {
 		free = "https://raw.githubusercontent.com/",
