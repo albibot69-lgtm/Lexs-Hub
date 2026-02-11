@@ -16,6 +16,10 @@ local HUB_ICON = "rbxassetid://103875081318049"
 -- DATABASE SCRIPT (NAMA GAME)
 -- =========================
 local gameScripts = {
+	["Abyss"] = {
+		free = "https://raw.githubusercontent.com/",
+		premium = "https://raw.githubusercontent.com/albibot69-lgtm/Lexs-Hub/refs/heads/main/WebhookBALB/Premium.lua"
+	},
 	["BALB"] = {
 		free = "https://raw.githubusercontent.com/",
 		premium = "https://raw.githubusercontent.com/albibot69-lgtm/Lexs-Hub/refs/heads/main/WebhookBALB/Premium.lua"
