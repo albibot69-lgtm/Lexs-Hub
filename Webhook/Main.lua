@@ -26,7 +26,7 @@ local gameScripts = {
 	},
 
 	["ETFB"] = {
-		free = "https://raw.githubusercontent.com/",
+		free = "https://raw.githubusercontent.com/albibot69-lgtm/Lexs-Hub/refs/heads/main/WebhookETFB/Freemium.lua",
 		premium = "https://raw.githubusercontent.com/albibot69-lgtm/Lexs-Hub/refs/heads/main/WebhookETFB/Premium.lua"
 	},
 
