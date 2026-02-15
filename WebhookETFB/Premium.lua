@@ -37,7 +37,10 @@ local data = {
 
 		description =
 			"```diff\n" ..
-			"[ + ] Unlock Vip\n" ..
+			"[ + ] Added Teleport Gap 10\n" ..
+			"[ + ] Added Teleport Gap 11\n" ..
+			"[ + ] Added Teleport Gap 12\n" ..
+			"[ / ] Fix Auto Collect Cash\n" ..
 			"```\n\n" ..
 			"**Rejoin & Re-execute the script**",
 
