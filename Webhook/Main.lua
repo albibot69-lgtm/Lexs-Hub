@@ -24,12 +24,14 @@ local gameScripts = {
 		free = "https://raw.githubusercontent.com/",
 		premium = "https://raw.githubusercontent.com/albibot69-lgtm/Lexs-Hub/refs/heads/main/WebhookBALB/Premium.lua"
 	},
-
 	["ETFB"] = {
 		free = "https://raw.githubusercontent.com/albibot69-lgtm/Lexs-Hub/refs/heads/main/WebhookETFB/Freemium.lua",
 		premium = "https://raw.githubusercontent.com/albibot69-lgtm/Lexs-Hub/refs/heads/main/WebhookETFB/Premium.lua"
 	},
-
+	["RAS"] = {
+		free = "https://github.com/albibot69-lgtm/Lexs-Hub/blob/main/WebhookRAS/Freemium.lua",
+		premium = "https://github.com/albibot69-lgtm/Lexs-Hub/blob/main/WebhookRAS/Premium.lua"
+	},
 	["Fish It"] = {
 		free = "https://raw.githubusercontent.com/",
 		premium = "https://raw.githubusercontent.com/albibot69-lgtm/Lexs-Hub/refs/heads/main/WebhookFishIt/Premium.lua"
